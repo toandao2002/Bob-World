@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: 3510409fd8ae9be43b5294016f956aa7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_0"
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1618
+        width: 603
+        height: 1345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e46e8578226fd44bf6db700847ca42
+      internalID: 1300977121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_1"
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1732
+        width: 996
+        height: 1134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ec8eac5c26aa94fbd8e5a79b8b4f5e
+      internalID: 1116470232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_2"
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1688
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c3b1ce3828597478540d38b4d2f890
+      internalID: -1686230464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_3"
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1606
+        width: 85
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314ac6a0aaeff9f45adecac5b2aeca59
+      internalID: -2070256313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_4"
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 1683
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ad4eb5fe1022645998af671416fc49
+      internalID: 750500544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_5"
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1610
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6bd3a962ef4d64dac5c85d1362b7f1
+      internalID: 790964678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_6"
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1584
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e497a90461314e44da20eb0a3d2364dd
+      internalID: -1761638854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_7"
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 1562
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc8caccad41a2d4bbd6b47c56e3f185
+      internalID: 1451924114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_8"
+      rect:
+        serializedVersion: 2
+        x: 1775
+        y: 1564
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19d1bc4aa49c814787dc515793f2eba
+      internalID: 1161271266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_9"
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1538
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997ade1b8229a744fb8038408f7db33a
+      internalID: -358906170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_10"
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1540
+        width: 4
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb248315586bb1409c996f6bd31f5bf
+      internalID: 264712332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_11"
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1516
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f58a0d87d54bb468ad4e59ba5baca7
+      internalID: 951192533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_12"
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1494
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3d5ae8a257e234b91272967a105867
+      internalID: 1475518772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_13"
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 316
+        width: 515
+        height: 1107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35093b229cd02e14eaae1e00f4a50cc4
+      internalID: -1927573913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_14"
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1032
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f8e231845d6f943a5807de82061d3c
+      internalID: 330523780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_15"
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1024
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40969b77c5f7484449c2e060b7a53607
+      internalID: 1944289367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_16"
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 222
+        width: 795
+        height: 1145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71294b649c6057c4399345d732be9a11
+      internalID: -1756995850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_17"
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 952
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c3dd9c9a83b0b4aaf28eb075bc6dfb
+      internalID: -570698073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_18"
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 949
+        width: 634
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c869373b06e5b6546a5fac95bdf440dc
+      internalID: -1419852487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014magic game elements set potion_5978307_19"
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1844
+        width: 928
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b2306bbd05e2b43b50eed870ca17dc
+      internalID: -1723529581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_3": -2070256313
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_12": 1475518772
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_9": -358906170
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_19": -1723529581
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_7": 1451924114
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_8": 1161271266
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_4": 750500544
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_6": -1761638854
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_15": 1944289367
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_16": -1756995850
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_18": -1419852487
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_2": -1686230464
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_17": -570698073
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_1": 1116470232
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_5": 790964678
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_13": -1927573913
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_0": 1300977121
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_11": 951192533
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_14": 330523780
+      "\u2014Pngtree\u2014magic game elements set potion_5978307_10": 264712332
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
